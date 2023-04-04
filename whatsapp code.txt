@@ -4,3 +4,4 @@ whatsapp development
 2.profile code
 3.last seen code
 4.attachments (image,audio,video) code
+5.hiding the last seen code
