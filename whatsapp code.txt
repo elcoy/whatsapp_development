@@ -1,0 +1,6 @@
+whatsapp development
+
+1.chat code
+2.profile code
+3.last seen code
+4.attachments (image,audio,video) code
